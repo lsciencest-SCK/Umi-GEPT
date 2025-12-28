@@ -1,0 +1,7 @@
+{
+  "name": "UMI GEPT Junior Listening Master",
+  "description": "An interactive English listening practice app designed for elementary students, featuring GEPT Junior style questions with a cute Chii-kawa theme.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
